@@ -1,0 +1,3 @@
+torch==1.6.0
+imgaug
+opencv-python==4.5.2
